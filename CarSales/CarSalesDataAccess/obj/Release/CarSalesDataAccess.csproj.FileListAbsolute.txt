@@ -1,0 +1,19 @@
+C:\Users\ajant\OneDrive\Documents\Visual Studio 2017\Projects\CarSaleV1\CarSales\CarSalesDataAccess\bin\Release\CarSalesDataAccess.dll.config
+C:\Users\ajant\OneDrive\Documents\Visual Studio 2017\Projects\CarSaleV1\CarSales\CarSalesDataAccess\bin\Release\CarSalesDataAccess.dll
+C:\Users\ajant\OneDrive\Documents\Visual Studio 2017\Projects\CarSaleV1\CarSales\CarSalesDataAccess\bin\Release\CarSalesDataAccess.pdb
+C:\Users\ajant\OneDrive\Documents\Visual Studio 2017\Projects\CarSaleV1\CarSales\CarSalesDataAccess\bin\Release\EntityFramework.dll
+C:\Users\ajant\OneDrive\Documents\Visual Studio 2017\Projects\CarSaleV1\CarSales\CarSalesDataAccess\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\ajant\OneDrive\Documents\Visual Studio 2017\Projects\CarSaleV1\CarSales\CarSalesDataAccess\bin\Release\EntityFramework.xml
+C:\Users\ajant\OneDrive\Documents\Visual Studio 2017\Projects\CarSaleV1\CarSales\CarSalesDataAccess\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\ajant\OneDrive\Documents\Visual Studio 2017\Projects\CarSaleV1\CarSales\CarSalesDataAccess\obj\Release\CarSalesDataAccess.dll
+C:\Users\ajant\OneDrive\Documents\Visual Studio 2017\Projects\CarSaleV1\CarSales\CarSalesDataAccess\obj\Release\CarSalesDataAccess.pdb
+C:\Users\ajant\OneDrive\Documents\GitHub\CarSaleAPI\CarSales\CarSalesDataAccess\bin\Release\CarSalesDataAccess.dll.config
+C:\Users\ajant\OneDrive\Documents\GitHub\CarSaleAPI\CarSales\CarSalesDataAccess\bin\Release\CarSalesDataAccess.dll
+C:\Users\ajant\OneDrive\Documents\GitHub\CarSaleAPI\CarSales\CarSalesDataAccess\bin\Release\CarSalesDataAccess.pdb
+C:\Users\ajant\OneDrive\Documents\GitHub\CarSaleAPI\CarSales\CarSalesDataAccess\bin\Release\EntityFramework.dll
+C:\Users\ajant\OneDrive\Documents\GitHub\CarSaleAPI\CarSales\CarSalesDataAccess\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\ajant\OneDrive\Documents\GitHub\CarSaleAPI\CarSales\CarSalesDataAccess\bin\Release\EntityFramework.xml
+C:\Users\ajant\OneDrive\Documents\GitHub\CarSaleAPI\CarSales\CarSalesDataAccess\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\ajant\OneDrive\Documents\GitHub\CarSaleAPI\CarSales\CarSalesDataAccess\obj\Release\CarSalesDataAccess.csprojResolveAssemblyReference.cache
+C:\Users\ajant\OneDrive\Documents\GitHub\CarSaleAPI\CarSales\CarSalesDataAccess\obj\Release\CarSalesDataAccess.dll
+C:\Users\ajant\OneDrive\Documents\GitHub\CarSaleAPI\CarSales\CarSalesDataAccess\obj\Release\CarSalesDataAccess.pdb

@@ -1,0 +1,10 @@
+C:\Users\ajant\OneDrive\Documents\Visual Studio 2017\Projects\CarSaleV1\CarSales\CarSalesDataAccess\bin\Debug\CarSalesDataAccess.dll.config
+C:\Users\ajant\OneDrive\Documents\Visual Studio 2017\Projects\CarSaleV1\CarSales\CarSalesDataAccess\bin\Debug\CarSalesDataAccess.dll
+C:\Users\ajant\OneDrive\Documents\Visual Studio 2017\Projects\CarSaleV1\CarSales\CarSalesDataAccess\bin\Debug\CarSalesDataAccess.pdb
+C:\Users\ajant\OneDrive\Documents\Visual Studio 2017\Projects\CarSaleV1\CarSales\CarSalesDataAccess\bin\Debug\EntityFramework.dll
+C:\Users\ajant\OneDrive\Documents\Visual Studio 2017\Projects\CarSaleV1\CarSales\CarSalesDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ajant\OneDrive\Documents\Visual Studio 2017\Projects\CarSaleV1\CarSales\CarSalesDataAccess\bin\Debug\EntityFramework.xml
+C:\Users\ajant\OneDrive\Documents\Visual Studio 2017\Projects\CarSaleV1\CarSales\CarSalesDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ajant\OneDrive\Documents\Visual Studio 2017\Projects\CarSaleV1\CarSales\CarSalesDataAccess\obj\Debug\CarSalesDataAccess.dll
+C:\Users\ajant\OneDrive\Documents\Visual Studio 2017\Projects\CarSaleV1\CarSales\CarSalesDataAccess\obj\Debug\CarSalesDataAccess.pdb
+C:\Users\ajant\OneDrive\Documents\Visual Studio 2017\Projects\CarSaleV1\CarSales\CarSalesDataAccess\obj\Debug\CarSalesDataAccess.csprojResolveAssemblyReference.cache

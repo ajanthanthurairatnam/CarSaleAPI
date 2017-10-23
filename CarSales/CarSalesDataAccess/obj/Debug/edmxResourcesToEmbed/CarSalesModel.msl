@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="CarSalesModelStoreContainer" CdmEntityContainer="CarSalesEntities">
+    <EntitySetMapping Name="VehicleAdvertisements">
+      <EntityTypeMapping TypeName="CarSalesModel.VehicleAdvertisement">
+        <MappingFragment StoreEntitySet="VehicleAdvertisement">
+          <ScalarProperty Name="Reference_ID" ColumnName="Reference_ID" />
+          <ScalarProperty Name="Title" ColumnName="Title" />
+          <ScalarProperty Name="Reference_No" ColumnName="Reference_No" />
+          <ScalarProperty Name="Price" ColumnName="Price" />
+          <ScalarProperty Name="BodyType" ColumnName="BodyType" />
+          <ScalarProperty Name="EngineCapacity" ColumnName="EngineCapacity" />
+          <ScalarProperty Name="AudoMeter" ColumnName="AudoMeter" />
+          <ScalarProperty Name="Fuel" ColumnName="Fuel" />
+          <ScalarProperty Name="Description" ColumnName="Description" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ConfigSettings">
+      <EntityTypeMapping TypeName="CarSalesModel.ConfigSetting">
+        <MappingFragment StoreEntitySet="ConfigSetting">
+          <ScalarProperty Name="VehicleAdvertisementNextRefNo" ColumnName="VehicleAdvertisementNextRefNo" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="VehicleBodies">
+      <EntityTypeMapping TypeName="CarSalesModel.VehicleBody">
+        <MappingFragment StoreEntitySet="VehicleBody">
+          <ScalarProperty Name="ImageURL" ColumnName="ImageURL" />
+          <ScalarProperty Name="BodyDescription" ColumnName="BodyDescription" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="VehicleFuels">
+      <EntityTypeMapping TypeName="CarSalesModel.VehicleFuel">
+        <MappingFragment StoreEntitySet="VehicleFuel">
+          <ScalarProperty Name="FuelType" ColumnName="FuelType" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

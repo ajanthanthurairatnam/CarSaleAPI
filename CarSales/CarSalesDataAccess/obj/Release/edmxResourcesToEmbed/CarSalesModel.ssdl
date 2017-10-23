@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="CarSalesModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="ConfigSetting">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="VehicleAdvertisementNextRefNo" Type="int" />
+  </EntityType>
+  <EntityType Name="VehicleAdvertisement">
+    <Key>
+      <PropertyRef Name="Reference_ID" />
+    </Key>
+    <Property Name="Reference_ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Title" Type="varchar" MaxLength="50" />
+    <Property Name="Reference_No" Type="varchar" MaxLength="10" />
+    <Property Name="Price" Type="decimal" Precision="18" Scale="2" />
+    <Property Name="BodyType" Type="int" />
+    <Property Name="EngineCapacity" Type="int" />
+    <Property Name="AudoMeter" Type="decimal" Precision="18" Scale="0" />
+    <Property Name="Fuel" Type="int" />
+    <Property Name="Description" Type="varchar(max)" />
+  </EntityType>
+  <EntityType Name="VehicleBody">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="BodyDescription" Type="varchar" MaxLength="50" />
+    <Property Name="ImageURL" Type="varchar(max)" />
+  </EntityType>
+  <EntityType Name="VehicleFuel">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="FuelType" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityContainer Name="CarSalesModelStoreContainer">
+    <EntitySet Name="ConfigSetting" EntityType="Self.ConfigSetting" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="VehicleAdvertisement" EntityType="Self.VehicleAdvertisement" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="VehicleBody" EntityType="Self.VehicleBody" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="VehicleFuel" EntityType="Self.VehicleFuel" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>
